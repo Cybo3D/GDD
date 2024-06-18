@@ -62,7 +62,7 @@ The target audience is teenagers / young-adults, but i want every age to be able
 ### Art
 Aseprite
 ### Game engine
-sitting between unity and fna
+sitting between unity and monogame
 ### code editor
 VS code
 
