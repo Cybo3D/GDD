@@ -20,6 +20,7 @@ There is an dictator who was appointed by the people but very quickly after beca
 the EVO cores are cores of power, wich can be harvested for energy but also can give certain powers to the **entities** holding them.
 
 ### Theme
+The game is set in a world medival like but more like modernized elements thanks to the EVO cores
 
 ## Gameplay
 
