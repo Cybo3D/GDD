@@ -43,7 +43,7 @@ Puzzles
 #### Left: LB / C
 #### Right: RB / V
 #### Menu: > / Escape
-#### Map: < / Backspace
+#### Map: < / Backspace   
 
 ## Player feeling
 The player needs to feel challenged with bosses and enemies and always scared to enter the next room not wanting to die.
